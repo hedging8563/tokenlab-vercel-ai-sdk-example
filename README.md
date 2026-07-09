@@ -10,8 +10,6 @@ cp .env.example .env
 TOKENLAB_API_KEY=sk-your-tokenlab-key npm start
 ```
 
-Until `@tokenlab/ai-sdk-provider` is published to npm, this example installs it from GitHub.
-
 ## Links
 
 - Provider repo: https://github.com/hedging8563/tokenlab-ai-sdk-provider

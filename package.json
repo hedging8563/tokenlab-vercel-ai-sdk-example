@@ -8,7 +8,7 @@
     "test": "node --check index.mjs"
   },
   "dependencies": {
-    "@tokenlab/ai-sdk-provider": "github:hedging8563/tokenlab-ai-sdk-provider",
+    "@tokenlabai/ai-sdk-provider": "^0.1.0",
     "ai": "^5.0.0"
   }
 }
