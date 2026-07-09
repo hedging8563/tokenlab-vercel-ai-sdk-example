@@ -1,0 +1,14 @@
+{
+  "name": "tokenlab-vercel-ai-sdk-example",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node index.mjs",
+    "test": "node --check index.mjs"
+  },
+  "dependencies": {
+    "@tokenlab/ai-sdk-provider": "github:hedging8563/tokenlab-ai-sdk-provider",
+    "ai": "^5.0.0"
+  }
+}
