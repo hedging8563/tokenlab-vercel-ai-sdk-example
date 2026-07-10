@@ -2,7 +2,7 @@ import { generateText } from "ai";
 import { tokenlab } from "@tokenlabai/ai-sdk-provider";
 
 const { text } = await generateText({
-  model: tokenlab.chatModel(process.env.TOKENLAB_MODEL || "gpt-5.4"),
+  model: tokenlab.chatModel(process.env.TOKENLAB_MODEL || "gpt-5.5"),
   prompt: "Explain TokenLab in one sentence."
 });
 

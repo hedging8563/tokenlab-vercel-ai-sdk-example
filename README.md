@@ -1,6 +1,10 @@
 # TokenLab Vercel AI SDK Example
 
+[![CI](https://github.com/hedging8563/tokenlab-vercel-ai-sdk-example/actions/workflows/ci.yml/badge.svg)](https://github.com/hedging8563/tokenlab-vercel-ai-sdk-example/actions/workflows/ci.yml)
+
 Minimal Node example using the TokenLab AI SDK provider package.
+
+This example targets AI SDK 7 and Node.js 22 or newer.
 
 ## Quickstart
 
