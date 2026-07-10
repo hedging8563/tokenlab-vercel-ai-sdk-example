@@ -2,6 +2,8 @@
 
 Minimal Node example using the TokenLab AI SDK provider package.
 
+This example targets AI SDK 7 and Node.js 22 or newer.
+
 ## Quickstart
 
 ```bash
