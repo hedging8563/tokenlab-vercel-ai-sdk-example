@@ -17,4 +17,4 @@ TOKENLAB_API_KEY=sk-your-tokenlab-key npm start
 ## Links
 
 - Provider repo: https://github.com/hedging8563/tokenlab-ai-sdk-provider
-- TokenLab AI SDK docs: https://docs.tokenlab.sh/integrations/vercel-ai-sdk
+- TokenLab AI SDK docs: https://tokenlab.sh/docs/en/integrations/vercel-ai-sdk
